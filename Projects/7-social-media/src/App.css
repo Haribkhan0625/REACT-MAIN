@@ -30,3 +30,6 @@
 .delete-btn:hover{
   cursor: pointer;
 }
+.welcome-message{
+  margin: 100px 0;
+}
